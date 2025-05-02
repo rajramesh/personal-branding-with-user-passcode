@@ -1,0 +1,13 @@
+Based on the following context and responses, provide a comprehensive personal brand analysis for {user_name}:
+
+Initial Context: {initial_context}
+
+Responses:
+{responses}
+
+Please provide a detailed analysis of {user_name}'s personal brand, in a friendly, clear, and insightful tone including:
+1. Craft a concise one-line personal brand statement that captures the essence of who {user_name} is and what they uniquely offer.
+2. A 150-word analysis of {user_name}'s core strengths and unique value proposition explaining the reasoning behind the statement, connecting it to their strengths, values, and aspirations. This also includes their professional identity and positioning.
+3. Write a 150-word engaging personal brand script that {user_name} can use to introduce themselves to a potential employer or current boss that feels confident, human, and makes them memorable.
+4. {user_name}'s key differentiators and what skills they should continue to focus on building to make that differentiator gap more!
+5. Recommendations for {user_name}'s brand development. List out some specific steps they can take to advance and transform.
