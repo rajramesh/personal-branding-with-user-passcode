@@ -244,7 +244,7 @@ def main():
                 st.error(st.session_state.login_error)
         
         with tab2:
-            st.header("Register")
+            st.header("Register (you'll then need to verify your email)")
             reg_email = st.text_input("Email", key="reg_email")
             reg_password = st.text_input("Password", type="password", key="reg_password")
             if st.button("Register"):
